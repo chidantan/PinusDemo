@@ -1,0 +1,7 @@
+/node_modules
+/dist/logs
+/dist/*
+/.idea
+!/dist/config
+/dist/config/servers.json
+ormconfig.json
